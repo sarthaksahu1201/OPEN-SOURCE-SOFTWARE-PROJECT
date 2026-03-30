@@ -25,11 +25,11 @@ VITYA/
 │   ├── 05_open_source_manifesto_generator.sh  # Script 5: Manifesto Generator
 │   └── manifesto_*.txt                        # Sample Generated Manifesto
 ├── Screenshots/
-│   ├── script_01.png                          # Evidence for Script 1
-│   ├── script_02.png                          # Evidence for Script 2
-│   ├── script_03.png                          # Evidence for Script 3
-│   ├── script_04.png                          # Evidence for Script 4
-│   └── script_05.png                          # Evidence for Script 5
+│   ├── script_01.jpeg                          # Evidence for Script 1
+│   ├── script_02.jpeg                          # Evidence for Script 2
+│   ├── script_03.jpeg                          # Evidence for Script 3
+│   ├── script_04.jpeg                          # Evidence for Script 4
+│   └── script_05.jpeg                          # Evidence for Script 5
 ├── .gitignore
 └── README.md
 ```
