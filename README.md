@@ -212,3 +212,25 @@ Concepts used:
    curl -I http://localhost/nonexistent
 ```
 6. Capture screenshots of commands and outputs for report evidence.
+   
+## Screenshots
+
+### Script 1
+
+![Script 1 Screenshot](screenshots/script_1.png)
+
+### Script 2
+
+![Script 2 Screenshot](screenshots/script_2.png)
+
+### Script 3
+
+![Script 3 Screenshot](screenshots/script_3.png)
+
+### Script 4
+
+![Script 4 Screenshot](screenshots/script_4.png)
+
+### Script 5
+
+![Script 5 Screenshot](screenshots/script_5.png)
