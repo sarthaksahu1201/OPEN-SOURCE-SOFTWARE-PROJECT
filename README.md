@@ -217,20 +217,20 @@ Concepts used:
 
 ### Script 1
 
-![Script 1 Screenshot](screenshots/script_1.png)
+![Script 1 Screenshot](screenshots/script_1.jpeg)
 
 ### Script 2
 
-![Script 2 Screenshot](screenshots/script_2.png)
+![Script 2 Screenshot](screenshots/script_2.jpeg)
 
 ### Script 3
 
-![Script 3 Screenshot](screenshots/script_3.png)
+![Script 3 Screenshot](screenshots/script_3.jpeg)
 
 ### Script 4
 
-![Script 4 Screenshot](screenshots/script_4.png)
+![Script 4 Screenshot](screenshots/script_4.jpeg)
 
 ### Script 5
 
-![Script 5 Screenshot](screenshots/script_5.png)
+![Script 5 Screenshot](screenshots/script_5.jpeg)
